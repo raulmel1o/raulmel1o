@@ -28,24 +28,41 @@
 
 </p>
 
+<details>
+  <summary>📃 My Resume</summary>
 
 
+## Education
 
+- 📖 **Informations Systems**\
+📆 2020 - Moment\
+📍 **University of São Paulo** - São Paulo - SP, Brazil
 
+## Experience
+
+- 👨‍💻 **Projects Director**\
+📆 2021 - Moment\
+📍 **Síntese Jr.** - São Paulo - SP, Brazil
+
+<img align="right" src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black' />
+<img align="right" src='https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white' />
+
+- 👨‍💻 **Software Developer**\
+📆 2020 - Moment\
+📍 **Síntese Jr.** - São Paulo - SP, Brazil
+
+</details>
 
 <!--
 ### Hi there 👋
 
 Dev and Projects Director at @sintesejr
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulmello/)](https://www.linkedin.com/in/raulmello/)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14984057/raul-mello)](https://stackoverflow.com/users/14984057/raul-mello)
-<<<<<<< HEAD
-
-=======
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_mello.raul/)](https://www.instagram.com/_mello.raul/)
-<!--
->>>>>>> b1c19d6a9af05f71802cb3ce8365bd985ae40f7d
 **raulmel1o/raulmel1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
