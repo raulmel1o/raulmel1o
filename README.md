@@ -44,13 +44,12 @@
 📆 2021 - Moment\
 📍 **Síntese Jr.** - São Paulo - SP, Brazil
 
-<img align="right" src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black' />
-<img align="right" src='https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Github-000000?logo=github&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black' />
+<img align="right" src='https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white' />
 
 - 👨‍💻 **Software Developer**\
 📆 2020 - Moment\
