@@ -34,13 +34,13 @@
 
 ## Education
 
-- 📖 **Informations Systems**\
+- 📖 **Information Systems**\
 📆 2020 - Moment\
 📍 **University of São Paulo** - São Paulo - SP, Brazil
 
 ## Experience
 
-- 👨‍💻 **Projects Director**\
+- 👨‍💻 **Project Director**\
 📆 2021 - Moment\
 📍 **Síntese Jr.** - São Paulo - SP, Brazil
 
@@ -60,7 +60,7 @@
 <!--
 ### Hi there 👋
 
-Dev and Projects Director at @sintesejr
+Dev and Project Director at @sintesejr
 
 **raulmel1o/raulmel1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
