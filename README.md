@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Dev and Projects Director at @sintesejr
+
+[![LinkedIn Badge](s.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulmello/)]
+
 <!--
 **raulmel1o/raulmel1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
