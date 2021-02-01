@@ -3,7 +3,7 @@
 Dev and Projects Director at @sintesejr
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulmello/)](https://www.linkedin.com/in/raulmello/)
-
+[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14984057/raul-mello)](https://stackoverflow.com/users/14984057/raul-mello)
 <!--
 **raulmel1o/raulmel1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
