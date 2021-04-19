@@ -21,7 +21,7 @@
 <p align='center'>
   💻 My Workspace
   <br /><br />
-  <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows10' />
+<!--   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows10' /> -->
   <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' alt='Ubuntu 20.04' />
   <img src='https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white' alt='Intel Core I5 7TH' />
   <img src='https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white' alt='RAM 8GB' />
