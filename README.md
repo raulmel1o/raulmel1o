@@ -40,6 +40,10 @@
 
 ## Experience
 
+- 👨‍💻 **Software Engineer Intern**\
+📆 2021 - Moment\
+📍 **PPRO** - São Paulo - SP, Brazil
+
 - 👨‍💻 **Project Director**\
 📆 2021 - Moment\
 📍 **Síntese Jr.** - São Paulo - SP, Brazil
