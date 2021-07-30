@@ -21,6 +21,10 @@
 <p align='center'>
   💻 My Workspace
   <br /><br />
+  <img src='https://img.shields.io/badge/MAC%20OS-000000?style=for-the-badge&logo=apple&logoColor=white' alt='Mac OS' />
+  <img src='https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white' alt='Intel Core I5 10TH' />
+  <img src='https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white' alt='RAM 16GB' />
+  <br /><br />
 <!--   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows10' /> -->
   <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' alt='Ubuntu 20.04' />
   <img src='https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white' alt='Intel Core I5 7TH' />
@@ -39,6 +43,11 @@
 📍 **University of São Paulo** - São Paulo - SP, Brazil
 
 ## Experience
+  
+<img align="right" src='https://img.shields.io/badge/Gitlab-6666C4?logo=gitlab&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Java-FFFFFF?logo=java&logoColor=black' />
+<img align="right" src='https://img.shields.io/badge/Spring-FFFFFF?logo=spring&logoColor=green' />
+<img align="right" src='https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white' />
 
 - 👨‍💻 **Software Engineer Intern**\
 📆 2021 - Moment\
