@@ -12,10 +12,6 @@
     <img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='StackOverflow Badge' />
   </a>
 
-  <a href='https://www.instagram.com/_mello.raul/'>
-    <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram Badge' />
-  </a>
-
 </p>
 
 <p align='center'>
