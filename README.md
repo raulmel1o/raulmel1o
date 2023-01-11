@@ -44,8 +44,10 @@
 <img align="right" src='https://img.shields.io/badge/Java-FFFFFF?logo=java&logoColor=black' />
 <img align="right" src='https://img.shields.io/badge/Spring-FFFFFF?logo=spring&logoColor=green' />
 <img align="right" src='https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Kafka-FFFFFF?logo=apache-kafka&logoColor=black' />
+<img align="right" src='https://img.shields.io/badge/Mongo-FFFFFF?logo=mongodb&logoColor=green' />
 
-- 👨‍💻 **Software Engineer Intern**\
+- 👨‍💻 **Software Engineer**\
 📆 2021 - Moment\
 📍 **PPRO** - São Paulo - SP, Brazil
 
