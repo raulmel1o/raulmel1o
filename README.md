@@ -14,23 +14,34 @@
 
 </p>
 
-<p align='center'>
-  💻 My Workspace
-  <br /><br />
-  <img src='https://img.shields.io/badge/MAC%20OS-000000?style=for-the-badge&logo=apple&logoColor=white' alt='Mac OS' />
-  <img src='https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white' alt='Intel Core I5 10TH' />
-  <img src='https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white' alt='RAM 16GB' />
-  <br /><br />
-<!--   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows10' /> -->
-  <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' alt='Ubuntu 20.04' />
-  <img src='https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white' alt='Intel Core I5 7TH' />
-  <img src='https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white' alt='RAM 8GB' />
+# 📃 My Resume
 
-</p>
+## Experience
+  
+<img align="right" src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka' />
+<img align="right" src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' />
 
-<details>
-  <summary>📃 My Resume</summary>
+- 👨‍💻 **Software Engineer**\
+📆 2021 - Moment\
+📍 **PPRO** - São Paulo - SP, Brazil
 
+- 👨‍💻 **Project Director**\
+📆 2021 - 2022\
+📍 **Síntese Jr.** - São Paulo - SP, Brazil
+
+<img align="right" src='https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img align="right" src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
+
+- 👨‍💻 **Software Developer**\
+📆 2020 - 2022\
+📍 **Síntese Jr.** - São Paulo - SP, Brazil
 
 ## Education
 
@@ -38,35 +49,6 @@
 📆 2020 - Moment\
 📍 **University of São Paulo** - São Paulo - SP, Brazil
 
-## Experience
-  
-<img align="right" src='https://img.shields.io/badge/Gitlab-6666C4?logo=gitlab&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/Java-FFFFFF?logo=java&logoColor=black' />
-<img align="right" src='https://img.shields.io/badge/Spring-FFFFFF?logo=spring&logoColor=green' />
-<img align="right" src='https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/Kafka-FFFFFF?logo=apache-kafka&logoColor=black' />
-<img align="right" src='https://img.shields.io/badge/Mongo-FFFFFF?logo=mongodb&logoColor=green' />
-
-- 👨‍💻 **Software Engineer**\
-📆 2021 - Moment\
-📍 **PPRO** - São Paulo - SP, Brazil
-
-- 👨‍💻 **Project Director**\
-📆 2021 - Moment\
-📍 **Síntese Jr.** - São Paulo - SP, Brazil
-
-<img align="right" src='https://img.shields.io/badge/Github-000000?logo=github&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white' />
-<img align="right" src='https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black' />
-<img align="right" src='https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white' />
-
-- 👨‍💻 **Software Developer**\
-📆 2020 - Moment\
-📍 **Síntese Jr.** - São Paulo - SP, Brazil
-
-</details>
 
 <!--
 ### Hi there 👋
