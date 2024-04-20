@@ -17,16 +17,25 @@
 # 📃 My Resume
 
 ## Experience
-  
+
 <img align="right" src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
 <img align="right" src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img align="right" src='https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka' />
+
+- 👨‍💻 **Software Engineer**\
+📆 2024 - Moment\
+📍 **Swile** - São Paulo - SP, Brazil
+  
+<img align="right" src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
 <img align="right" src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white' />
 <img align="right" src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' />
 <img align="right" src='https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka' />
 <img align="right" src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' />
 
 - 👨‍💻 **Software Engineer**\
-📆 2021 - Moment\
+📆 2021 - 2024\
 📍 **PPRO** - São Paulo - SP, Brazil
 
 - 👨‍💻 **Project Director**\
